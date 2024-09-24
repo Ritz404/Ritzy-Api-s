@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andzz",
+  "license": "ISC",
+  "dependencies": {
+    "@siputzx/scraper": "^2.1.0",
+    "@types/node": "^18.0.6",
+    "cfonts": "^2.9.3",
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "ssl-express-www": "^1.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "betabotz-tools": "^0.0.7",
+    "axios": "^0.21.1",
+    "path": "^0.12.7",
+    "os": "^0.1.2",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2",
+    "form-data": "^4.0.0",
+    "jimp": "^0.16.1"
+  }
+}
